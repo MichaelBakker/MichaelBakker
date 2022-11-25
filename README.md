@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MichaelBakker
+- 👀 I’m interested in Data analysis, machine learning, WinUI
+- 🌱 I’m currently learning Azure infrastructure (Data factory, Bicep, Logic apps, Azure functions, Stream analytics)
+- 📫 Reach me at michaelbakker1<at>gmail.com
